@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 🌟 Join me as I traverse this inspiring journey, embracing the wonders of coding and shaping the digital landscape. Together, let's push boundaries, overcome obstacles, and celebrate the triumphs of being an indie full-stack developer from a non-science background. I may have started late and faced some difficulties, but I'm determined to keep learning and growing."
 
-Feel free to customize the text to reflect your own aspirations and vision. Best of luck in your pursuit of becoming a developer and making a positive impact on your community!
 </details>
 
 
